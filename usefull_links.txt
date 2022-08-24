@@ -1,2 +1,5 @@
 https://habr.com/ru/post/122082/
 https://habr.com/ru/company/vk/blog/454324/
+
+#vim configure
+https://www.youtube.com/watch?v=xmYil6Y9X68
